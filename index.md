@@ -32,7 +32,7 @@ def hello():
 
 ## Pictures
 
-- [View image](images\i_m_pid_477,c_282_76_1108x1108,bc_ffffff,ar_1x1,o_portrait,pm_4,s_313,q_90.jpg) 
+- [View image](images/pic.jpg) 
 - [View image](images/anger-rage-annoyed-proboscis-monkey-260nw-689870935.webp)  
 
 ## Tasks
